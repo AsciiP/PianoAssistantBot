@@ -23,7 +23,7 @@ mapping = {37: ',', 39: '.', 42: '/', 44: 'num0', 46: 'decimal',
 72: '1', 74: '2', 76: '3', 77: '4', 79: '5', 81: '6', 83: '7',
 
 85: 'F8', 87: 'F9', 90: 'F10', 92: 'divide', 94: 'multiply',
-84: 'F1', 86: 'F2', 88: 'F3', 89: 'F4', 91: 'F5', 93: 'F6', 95: 'F7', }
+84: 'F1', 86: 'F2', 88: 'F3', 89: 'F4', 91: 'F5', 93: 'F6', 95: 'F7', } # VR Piano Map
 note_range = list(mapping.keys())
 note_range_min = min(note_range)
 note_range_max = max(note_range)
